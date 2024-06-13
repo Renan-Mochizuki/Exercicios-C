@@ -1,5 +1,8 @@
 // ---Instruções da atividade---
-// Apresente um algoritmo (português estruturado) ou uma função em C que crie 2 vetores de inteiros de tamanho de 10 elementos e que peça para que sejam inseridos valores em cada um deles. Depois disso, crie um terceiro vetor que contenha os menores valores para cada índice desses vetores e um quarto vetor que contenha os maiores valores para cada índice.
+// Apresente um algoritmo (português estruturado) ou uma função em C que crie 2 vetores de inteiros 
+// de tamanho de 10 elementos e que peça para que sejam inseridos valores em cada um deles. 
+// Depois disso, crie um terceiro vetor que contenha os menores valores para cada índice desses vetores
+// e um quarto vetor que contenha os maiores valores para cada índice.
 
 #include <stdio.h>
 

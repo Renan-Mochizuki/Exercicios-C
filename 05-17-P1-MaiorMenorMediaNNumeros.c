@@ -1,5 +1,7 @@
 // ---Instruções da atividade---
-// Apresente um algoritmo (português estruturado) ou uma função em C que peça para ser digitado um número inteiro N. Depois disso, devem ser inseridos N números reais e ao final que sejam apresentados o maior número digitado, o menor número e a média dos números digitados.
+// Apresente um algoritmo (português estruturado) ou uma função em C que peça para ser digitado um
+// número inteiro N. Depois disso, devem ser inseridos N números reais e ao final que sejam 
+// apresentados o maior número digitado, o menor número e a média dos números digitados.
 
 #include <stdio.h>
 

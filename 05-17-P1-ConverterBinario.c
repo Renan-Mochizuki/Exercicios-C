@@ -1,5 +1,6 @@
 // ---Instruções da atividade---
-// Apresente um algoritmo (português estruturado) ou uma função em C que leia um número inteiro N que seja maior ou igual a 0 e o mostre na notação binária
+// Apresente um algoritmo (português estruturado) ou uma função em C que leia um número inteiro N
+// que seja maior ou igual a 0 e o mostre na notação binária
 
 #include <stdio.h>
 

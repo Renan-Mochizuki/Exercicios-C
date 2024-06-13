@@ -1,5 +1,9 @@
 // ---Instruções da atividade---
-// Em uma competição de ginástica, a nota é determinada por um painel de seis juízes. Cada um deles atribui uma nota entre zero e dez para o desempenho do atleta. Para calcular a nota final, a nota mais alta e a nota mais baixa são descartadas e é calculada a média das quatro restantes. Apresente  um algoritmo (português estruturado) ou parte de um programa em C que receba por parâmetro essas 6 notas entre zero e dez e calcule a média após o descarte da maior e da menor 
+// Em uma competição de ginástica, a nota é determinada por um painel de seis juízes. Cada um deles 
+// atribui uma nota entre zero e dez para o desempenho do atleta. Para calcular a nota final, a nota
+// mais alta e a nota mais baixa são descartadas e é calculada a média das quatro restantes. 
+// Apresente um algoritmo (português estruturado) ou parte de um programa em C que receba por parâmetro 
+// essas 6 notas entre zero e dez e calcule a média após o descarte da maior e da menor 
 
 #include <stdio.h>
 

@@ -1,6 +1,8 @@
 // ---Instruções da atividade---
-// Apresentar um programa na linguagem C que peça que seja digitada uma data (DD/MM/AAAA) e informe se essa data é válida ou não.
-// Lembrando que se um ano for divisível por quatro é um ano bissexto e, portanto, o dia 29 de fevereiro é uma data válida.
+// Apresentar um programa na linguagem C que peça que seja digitada uma data (DD/MM/AAAA) e 
+// informe se essa data é válida ou não.
+// Lembrando que se um ano for divisível por quatro é um ano bissexto e, portanto, o dia 29 de 
+// fevereiro é uma data válida.
 
 #include <stdio.h>
 #include <string.h>
