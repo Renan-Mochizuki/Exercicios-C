@@ -1,5 +1,5 @@
 // ---Instruções da atividade---
-// Apresente um algoritmo (português estruturado) ou uma função em C que tenha como entrada um número
+// 1. Apresente um algoritmo (português estruturado) ou uma função em C que tenha como entrada um número
 // real que indique uma temperatura em graus Celsius e retorne o valor dessa temperatura em graus Fahrenheit 
 
 #include <stdio.h>
