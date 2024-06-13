@@ -13,3 +13,7 @@ Classifiquei os arquivos com siglas sendo:
 - EP = Desafio
 
 - L = Lista
+
+- R = Revisão/Prática própria
+
+Minha conta no Replit: https://replit.com/@renanmochizuki
