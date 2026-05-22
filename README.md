@@ -10,10 +10,8 @@ Classifiquei os arquivos com siglas sendo:
 
 - A = Atividade
 
-- EP = Desafio
+- EP = Exercício Programa (Trabalho)
 
 - L = Lista
 
 - R = Revisão/Prática própria
-
-Minha conta no Replit: https://replit.com/@renanmochizuki
